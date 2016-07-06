@@ -1,0 +1,10 @@
+[package]
+name = "board_game_timer"
+version = "0.1.0"
+authors = ["Arlefreak <hi@arlefreak.com>"]
+
+[dependencies]
+rustbox = "*"
+
+[features]
+default = []
